@@ -1,0 +1,13 @@
+Tubing Helper
+==================================================
+
+2007-9-30 v1.2
+-Remove the function to convert unit,remove related functions.
+>improve database format
+>TH now can handle with different units at a same row,see EXCEL for detail
+
+
+2007-9-29 v1.1
++add a function to list existing parameters
++add a function to delete existing parameters that have the same name as defined in EXCEL
++add function to check updates
